@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Evan 👋
 
-<!--
-**irtazulevan1/irtazulevan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building reliable, production-ready web applications.
 
-Here are some ideas to get you started:
+🛠️ Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express, Next.js API routes, Laravel
+- Database: MongoDB, MySQL
+- Web3: ethers.js, MetaMask integration, Ethereum (Sepolia testnet)
+- Tools: Git, REST APIs, Vercel
+
+🚀 What I focus on
+
+- Clean, maintainable frontend architecture
+- Reliable APIs with proper validation and error handling
+- Wallet and transaction edge cases in Web3 apps
+- Bug fixing, refactoring, and production polish
+
+📫 Let's work together
+
+Available for freelance projects.
